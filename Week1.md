@@ -35,7 +35,7 @@ https://www.youtube.com/watch?v=D46j-e_IHlI&list=PLVsNizTWUw7FGzSRCkQrPEEe-ljVXg
 
 <!-- 여기까진 그대로 둬 주세요-->
 
-
+와랄라 ㄴ
 # 1️⃣ 개념 정리 
 
 ## 01. 데이터 분석이란
